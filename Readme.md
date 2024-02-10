@@ -1,3 +1,12 @@
+## This Repository is about, me studying Node.js from beginning.
+---
+
+Below is the list about what I learned day by day and the codes are in their respective folders.
+
+---
+
+
+
 # Day 1 - Introduction
 ----------------------
 
@@ -18,6 +27,8 @@
 
 # Day 2 - Installation and Printing 'Hello World'
 ---
+
+### Installation
 
 >**Step 1:** Go to the official website of [Nodejs](https://nodejs.org/en)
 
@@ -48,3 +59,10 @@ It will open a Interactive terminal of NodeJs.
 * when we install nodejs, NPM install automatically
 
 * It helps us to install Packages and Pluggins.
+
+
+# Day 3 - Setting up VS Code
+
+> Setting up VS Code editor for Node.js
+
+> Running Node.js code using Terminal
