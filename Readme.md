@@ -29,13 +29,13 @@
 
 ### verify wheather Nodejs is installed or not 
 
-> Open Terminal write command ``` 'node --version' ```
+> Open Terminal write command ``` node --version ```
 
 if it is giving an error please re install it.
 
 ### Printing 'Hello World'
 
->**Step 1:** Open Terminal write command ``` 'node ``` and press 'Enter'.
+>**Step 1:** Open Terminal write command ``` node ``` and press 'Enter'.
 
 It will open a Interactive terminal of NodeJs.
 
@@ -47,4 +47,4 @@ It will open a Interactive terminal of NodeJs.
 
 * when we install nodejs, NPM install automatically
 
-* I helps us to install Packages and Pluggins.
+* It helps us to install Packages and Pluggins.
