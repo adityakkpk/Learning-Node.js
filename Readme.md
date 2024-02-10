@@ -62,6 +62,7 @@ It will open a Interactive terminal of NodeJs.
 
 
 # Day 3 - Setting up VS Code
+---
 
 > Setting up VS Code editor for Node.js
 
