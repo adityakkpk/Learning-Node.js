@@ -67,3 +67,11 @@ It will open a Interactive terminal of NodeJs.
 > Setting up VS Code editor for Node.js
 
 > Running Node.js code using Terminal
+
+
+# Day 4 - Modules in Node.js
+---
+
+> What is module?
+
+> Exporting and Importing modules.
