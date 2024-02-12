@@ -22,3 +22,17 @@ const fs = require('fs');
 // });
 
 //Appending
+//Sync
+// fs.appendFileSync("./test.txt", new Date().getDate().toLocaleString());
+// fs.appendFileSync("./test.txt", "\n Ka ho ka hal ba aaj k "+Date.now());
+
+//Copy
+// fs.cpSync('./test.txt', './copy.txt');
+
+//Delete
+// fs.unlinkSync('./text.txt');
+
+// console.log(fs.statSync("./test.txt"));
+
+// fs.mkdirSync('my-docs');
+fs.mkdirSync('my-docs/a/b', {recursive: true});
