@@ -75,3 +75,11 @@ It will open a Interactive terminal of NodeJs.
 > What is module?
 
 > Exporting and Importing modules.
+
+
+# Day 5 - File handling
+---
+
+> What is fs module?
+
+> File handling using fs module.
