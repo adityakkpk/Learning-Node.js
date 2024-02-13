@@ -83,3 +83,9 @@ It will open a Interactive terminal of NodeJs.
 > What is fs module?
 
 > File handling using fs module.
+
+# Day 6 - How Node.js works?
+
+> Archeitecture od Node.js
+
+> Asynchronous and Synchronous
