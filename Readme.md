@@ -89,3 +89,7 @@ It will open a Interactive terminal of NodeJs.
 > Archeitecture od Node.js
 
 > Asynchronous and Synchronous
+
+# Day 7 - Building HTTP Server
+
+> Creating a web server using 'http' module
